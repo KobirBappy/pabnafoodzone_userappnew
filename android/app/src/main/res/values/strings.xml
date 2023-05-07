@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pabna e Zone</string>
+   <string name="facebook_app_id">1087604755455981</string>
+  <string name="fb_login_protocol_scheme">fb1087604755455981</string>
+    <string name="facebook_client_token">be92998b40651d464a51403adf88f352</string>
+</resources>
